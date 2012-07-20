@@ -20,5 +20,8 @@ $("#login-form").simpleShake();
 
 Original code snippet is borrowed from [abuduba](http://stackoverflow.com/users/1024298/abuduba) at [StackOverflow thread](http://stackoverflow.com/a/8645933).
 
+###Live demo
+- [login form](http://jsfiddle.net/he7pV/1/)
+
 ## License
 Licensed under the MIT license.
